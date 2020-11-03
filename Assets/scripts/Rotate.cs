@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEditorInternal;
 using UnityEngine;
 using UnityEngine.UI;
-/* The component will do rotation around itself  */
+/* The object increases and decreases slowly  */
 public class Rotate : MonoBehaviour
 {
     public bool updateOn = true;
