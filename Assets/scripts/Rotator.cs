@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/* The component will do rotation around itself  */
 public class Rotator : MonoBehaviour
 {
     [SerializeField]
